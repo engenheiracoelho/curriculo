@@ -12,6 +12,7 @@ Sugestão de uso dos materiais:
 1. Acesse o arquivo [Explicando o currículo ponto a ponto](https://github.com/engenheiracoelho/curriculo/blob/main/Explicando%20o%20curri%CC%81culo.pdf) e entenda qual foi o meu objetivo em cada uma das sessões inseridas no currículo. 
 2. Faça o download do currículo editável que estará mais aderente para a empresa que você pretende aplicar. Se a empresa é internacional, utilize o modelo de [Currículo editável em inglês](https://github.com/engenheiracoelho/curriculo/blob/main/Curri%CC%81culo%20edita%CC%81vel%20em%20ingle%CC%82s.docx), caso contrário, utilize o [Currículo editável em português](https://github.com/engenheiracoelho/curriculo/blob/main/Curri%CC%81culo%20edita%CC%81vel%20em%20portugue%CC%82s.docx) ou também no [Explicando o currículo](https://github.com/engenheiracoelho/curriculo/blob/main/Explicando%20o%20curri%CC%81culo.docx).
 3. Remova as sessões que não possui ítens, por exemplo, se não tem publicações remova essa sessão.
+4. Remova as sessões que não tem relação com o cargo para o qual está aplicando.
 4. Preencha o currículo e envie para as vagas. 
 
 Espero que esse conteúdo te ajude! 
