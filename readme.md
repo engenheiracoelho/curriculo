@@ -1,6 +1,7 @@
 # Criando um currículo
 
-Arquivos nesse repositório
+Esse é um repositório criado voluntariamente, utilize e compartilhe para que mais pessoas sejam impactadas por ele. 
+
 ## Currículo para primeiro emprego
 Esse modelo de currículo é direcionado para qualquer pessoa que esteja em busca do primeiro emprego, em qualquer área.
 
@@ -17,7 +18,7 @@ Esse modelo de currículo é direcionado para profissionais da área de software
 - [Currículo editável em português](https://github.com/engenheiracoelho/curriculo/blob/main/CV%20edita%CC%81vel%20-%20PT.docx)
 - [Currículo editável em inglês](https://github.com/engenheiracoelho/curriculo/blob/main/CV%20edita%CC%81vel%20-%20EN.docx)
 
-Sugestão de uso dos materiais:
+# Sugestão de uso dos materiais:
 
 1. Acesse o arquivo explicando o currículo ponto a ponto e entenda qual foi o meu objetivo em cada uma das sessões inseridas no currículo. 
 
