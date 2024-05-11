@@ -12,8 +12,6 @@ Esse modelo de currículo é direcionado para qualquer pessoa que esteja em busc
 ## Currículo para profissionais com experiência
 Esse modelo de currículo é direcionado para profissionais da área de software e que já possuem experiência.
 
-- [Currículo Leticia Coelho em inglês - PDF](https://github.com/engenheiracoelho/curriculo/blob/main/CV%20Leticia%20Coelho%20-%20EN.pdf)
-- [Currículo Leticia Coelho em português - PDF](https://github.com/engenheiracoelho/curriculo/blob/main/CV%20Leticia%20Coelho%20-%20PT.pdf)
 - [Explicando o currículo ponto a ponto](https://github.com/engenheiracoelho/curriculo/blob/main/Explicando%20o%20curri%CC%81culo.pdf)
 - [Currículo editável em português](https://github.com/engenheiracoelho/curriculo/blob/main/CV%20edita%CC%81vel%20-%20PT.docx)
 - [Currículo editável em inglês](https://github.com/engenheiracoelho/curriculo/blob/main/CV%20edita%CC%81vel%20-%20EN.docx)
