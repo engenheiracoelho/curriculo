@@ -36,3 +36,12 @@ Esse modelo de currículo é direcionado para profissionais da área de software
 Espero que esse conteúdo te ajude! 
 
 <b>Boa sorte na busca do novo emprego!</b>
+
+# Responsáveis
+
+
+| Papel                                   | Assigned          | Contato          |
+| --------------------------------------- | ----------------- | ---------------- |
+| Líder do projeto                            | <a href="https://linktr.ee/engenheira.coelho"><img src="https://avatars.githubusercontent.com/u/82114897?s=400&u=d6c8879b59c0d69fafe4206620f8b4cbd4f4ab81&v=4" width="25px;" style="border-radius:50%" alt=""/></a> | [Linkedin](https://www.linkedin.com/in/engenheiracoelho/) |
+| Contribuidora                              |<a href="https://linktr.ee/engenheira.coelho"><img src="https://avatars.githubusercontent.com/u/82114897?s=400&u=d6c8879b59c0d69fafe4206620f8b4cbd4f4ab81&v=4" width="25px;" width="25px;" style="border-radius:50%" alt=""/></a> | [Linkedin](https://www.linkedin.com/in/engenheiracoelho/)|
+
